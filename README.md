@@ -63,7 +63,7 @@ A Kiswahili environmental text classifier that:
 
 ## Built On
 
-- [Masakhane](https://github.com/masakhane-io/masakhane-nlp) — Pan-African NLP research community
+- [Masakhane](https://www.masakhane.io/) — Pan-African NLP research community
 - [Sunbird AI](https://sunbird.ai) — East African language AI  
 - [AfriBERTa](https://huggingface.co/castorini/afriberta_large) — African language BERT
 
