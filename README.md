@@ -57,14 +57,14 @@ A Kiswahili environmental text classifier that:
 
 ## Why This Matters
 
-"Amid increasing AI usage globally, it is unfortunate that most systems leave behind indigenous communities because of mainly being built using English. Kiswahili NLP changes that — making UNEP's mandate of leaving no one behind technically actionable."
+"Amid increasing AI usage globally, it is unfortunate that most systems leave behind indigenous communities because of being predominantly developed in English. Kiswahili NLP changes that — making UNEP's mandate of leaving no one behind technically actionable."
 
 ---
 
 ## Built On
 
-- [Masakhane](https://masakhane.io) — Pan-African NLP research community
-- [Sunbird AI](https://sunbird.ai) — East African language AI
+- [Masakhane](https://github.com/masakhane-io/masakhane-nlp) — Pan-African NLP research community
+- [Sunbird AI](https://sunbird.ai) — East African language AI  
 - [AfriBERTa](https://huggingface.co/castorini/afriberta_large) — African language BERT
 
 ---
