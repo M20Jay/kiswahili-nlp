@@ -70,4 +70,4 @@ A Kiswahili environmental text classifier that:
 ---
 
 *Part of a 15-week MLOps programme building production ML systems from scratch.*  
-*Week 3 of 15 — Building in public. No shortcuts. 🇰🇪*
+*Week 4 of 15 — Building in public. No shortcuts. 🇰🇪*
