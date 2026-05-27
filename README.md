@@ -1,9 +1,5 @@
 # Kiswahili NLP — Environmental Text Classifier
 
-**Author:** Martin James Ng'ang'a | [github.com/M20Jay](https://github.com/M20Jay)  
-**Status:** 🔨 In Progress — Prototype Complete  
-**Stack:** mBERT · HuggingFace Transformers · MLflow · Python
-
 ---
 
 ## The Problem
@@ -48,10 +44,9 @@ A Kiswahili environmental text classifier that:
 
 | Phase | Task | Status |
 |-------|------|--------|
-| Prototype | Zero-shot classification on 8 sentences | ✅ Complete |
-| Week 5 | Fine-tune mBERT on environmental dataset | ⏳ Pending |
-| Week 11 | Full pipeline — FastAPI + PostgreSQL + Grafana | ⏳ Pending |
-| Week 15 | Deploy to HuggingFace Hub — open source release | ⏳ Pending |
+| Week 4 | Prototype — zero-shot classification on 8 Kiswahili sentences | ✅ Complete |
+| Week 15 | Fine-tune mBERT on Kiswahili environmental corpus | ⏳ Pending |
+| Week 15 | Production pipeline — FastAPI · Docker · AWS · HuggingFace Hub release | ⏳ Pending |
 
 ---
 
@@ -69,5 +64,4 @@ A Kiswahili environmental text classifier that:
 
 ---
 
-*Part of a 15-week MLOps programme building production ML systems from scratch.*  
-*Week 4 of 15 — Building in public. No shortcuts. 🇰🇪*
+*Week 4 prototype · Full production system Week 15 · 15-Week MLOps Programme · Built in Nairobi, Kenya 🇰🇪*
