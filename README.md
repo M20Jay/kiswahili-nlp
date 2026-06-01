@@ -52,7 +52,10 @@ A Kiswahili environmental text classifier that:
 
 ## Why This Matters
 
-"Amid increasing AI usage globally, it is unfortunate that most systems leave behind indigenous communities because of being predominantly developed in English. Kiswahili NLP changes that — making UNEP's mandate of leaving no one behind technically actionable."
+> Most AI systems are built in English. Over 200 million East Africans speak Kiswahili.
+> That gap is not a technical limitation. It is a choice.
+> This project makes a different choice.
+> — Martin James Ng'ang'a, MLOps Engineer | Nairobi, Kenya 🇰🇪
 
 ---
 
@@ -65,3 +68,8 @@ A Kiswahili environmental text classifier that:
 ---
 
 *Week 4 prototype · Full production system Week 15 · 15-Week MLOps Programme · Built in Nairobi, Kenya 🇰🇪*
+
+## 🔗 Links
+- **Profile:** [github.com/M20Jay](https://github.com/M20Jay)
+- **Air Quality System:** [Live Dashboard](https://publisher-kinda-married-finished.trycloudflare.com)
+- **Full Portfolio:** [github.com/M20Jay/M20Jay](https://github.com/M20Jay/M20Jay)
