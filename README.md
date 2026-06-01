@@ -73,3 +73,9 @@ A Kiswahili environmental text classifier that:
 - **Profile:** [github.com/M20Jay](https://github.com/M20Jay)
 - **Air Quality System:** [Live Dashboard](https://publisher-kinda-married-finished.trycloudflare.com)
 - **Full Portfolio:** [github.com/M20Jay/M20Jay](https://github.com/M20Jay/M20Jay)
+
+## 🔗 Live Systems
+- **Full MLOps Portfolio:** [github.com/M20Jay](https://github.com/M20Jay)
+- **Air Quality Dashboard:** [publisher-kinda-married-finished.trycloudflare.com](https://publisher-kinda-married-finished.trycloudflare.com)
+- **Recommendation Dashboard:** [disgrace-system-robust.ngrok-free.dev](https://disgrace-system-robust.ngrok-free.dev)
+- **Contact:** ngangam93@gmail.com
